@@ -18,7 +18,8 @@ export enum SupportedChainId {
   POLYGON_MUMBAI = 80001,
 
   CELO = 42220,
-  CELO_ALFAJORES = 44787
+  CELO_ALFAJORES = 44787,
+  DEMX = 10630,
 }
 
 // exports for external consumption
